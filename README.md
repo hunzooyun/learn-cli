@@ -8,3 +8,4 @@
 - commit
 - branch
 - switch
+- merge

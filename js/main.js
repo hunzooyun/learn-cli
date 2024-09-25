@@ -1,1 +1,1 @@
-let me='techit frontend developer school 12th';
+let me='테킷 프론트엔드 스쿨 12기';
